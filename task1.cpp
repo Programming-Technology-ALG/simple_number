@@ -1,10 +1,8 @@
 
 #include "task1.h"
-#include <iostream>
 using namespace std;
 
 unsigned int getPrime(unsigned int n) {
-    // cout<<n<<endl;
     unsigned int count = 0;
     bool found = false;
     int num = -1;
